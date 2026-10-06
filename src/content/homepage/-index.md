@@ -2,7 +2,7 @@
 banner:
   title: Bananatree Digital Marketing
   content: 15 years of experience in marketing, digital transformation, content and more.
-  image: /images/banner-art-1.png
+  image: /images/banana-tree.png
   button:
     enable: true
     label: "Contact Us"
@@ -36,9 +36,9 @@ services:
   - title: "Strategic"
     content: "Launching platforms and campaigns is great, but only if it gets results. Knowing what will work, and why it will work for your organization is critical to saving precious time and money."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/report.png"
+      - "/images/plan.png"
+      - "/images/strategy.png"
     button:
       enable: true
       label: Check it out
@@ -47,7 +47,7 @@ services:
   - title: "Analytical"
     content: "Working with data is crucial in marketing. Knowing what works, and why is key to success. See beyond the numbers, charts and tables and see what the data means to your business."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/stats.png"
     button:
       enable: true
       label: Check it out
@@ -56,9 +56,7 @@ services:
   - title: "Agile"
     content: "\"Perfect is the enemy of done\" is a motto we live by. In a world where there is always a new platform, new trend, and new tool, we believe that getting your brand out in the wild is the most important thing. Agile project management is about coming up with something that works, and then iterating. No wasted time or budget trying to build something perfect while your competitors do laps around you."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/agile.png"
     button:
       enable: true
       label: Check it out
@@ -67,9 +65,8 @@ services:
   - title: "Economical"
     content: "Bloat and excess lead to waste. Spending time and budget on endless features may attract attention, but if it's not serving your goals then it's just resources going down the drain. Finding tools and techniques that fit your budget is part of the job."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/economical.png"
+
     button:
       enable: true
       label: Check it out
@@ -81,7 +78,7 @@ services:
 call_to_action:
   title: Let's work together!
   content: If you want to work with someone that cares about you and your business like their own, look no further!
-  image: "/images/cta.png"
+  image: "/images/relationship.png"
   button:
     enable: true
     label: "Contact Us"

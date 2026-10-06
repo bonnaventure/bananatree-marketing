@@ -15,32 +15,32 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "",
+          "url": "#"
         },
         {
-          "text": "Quick Start",
+          "text": "",
           "url": "#"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "",
       "menu": [
         {
-          "text": "Features",
+          "text": "",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "",
           "url": "#"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "",
+          "url": "#"
         }
       ]
     },
@@ -51,13 +51,10 @@
           "text": "FAQ",
           "url": "/faq"
         },
+
         {
-          "text": "Privacy Policy",
-          "url": "/privacy-policy"
-        },
-        {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
+          "text": "Communication illustrations by Storyset",
+          "url": "https://storyset.com/communication"
         }
       ]
     }

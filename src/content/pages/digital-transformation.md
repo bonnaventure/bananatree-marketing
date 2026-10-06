@@ -5,8 +5,6 @@ description: "Enterprise marketing technology transformation"
 draft: false
 ---
 
-# Case Study: Legacy Retail MarTech Modernization
-
 #### The Challenge
 
 Ecommerce revenue was being constrained by legacy email tools that did not allow for deep customer segmentation or personalization. When retail sales were coming from email sources, there was no way to attribute the revenue back to the channel. 
@@ -19,7 +17,7 @@ To better leverage the organization's newly acquired CRM platform, SAP Marketing
 
 Utilizing customer match-lists for segmentation, we were able to deliver the right message to the right customer at exactly the right time. This strategic alignment drove a 90% increase in ecommerce transactions generated from email, and coincided with across-the-board lift in in-store retail sales for each category targeted.
 
-#### Privacy Policy Changes
+#### Techniques Used
 
 1. CRM enabled email marketing 
 2. Customer match-list to enable segmentation and personalization.
