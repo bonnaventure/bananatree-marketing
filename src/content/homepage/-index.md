@@ -17,7 +17,7 @@ feature:
       content: "Website migration, app rollouts, CMS integration, and more."
     - name: "Digital First"
       icon: "/images/oop.svg"
-      content: "Well versed in digital trends, technolgy and process."
+      content: "Well versed in digital trends, technology and process."
     - name: "Hybrid/Remote"
       icon: "/images/user-clock.svg"
       content: "Located in Calgary, Alberta. Hire on retainer, contract, or for in-person roles."
